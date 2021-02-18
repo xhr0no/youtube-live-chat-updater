@@ -1,0 +1,5 @@
+This is a project made to automatically grab the url from a youtube live stream without using the youtube api.
+
+Inspired from https://obsproject.com/forum/resources/setting-up-live-youtube-chat-that-updates-with-new-streams.591/
+
+This project was coded live at https://www.youtube.com/watch?v=eWAd8CdsajY (Part 1) and https://www.youtube.com/watch?v=FCe8ugv-6_k (Part 2)
